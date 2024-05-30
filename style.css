@@ -166,14 +166,21 @@ body {
 
 @media screen and (max-width: 500px){
   .first-text{
-
+    font-size: 4rem;
   }
   .second-text{
+    font-size: 4rem;
     top: 7.8rem;
   }
   .third-text{
     left: 35%;
     font-size: 3.5rem;
+  }
+  .fourth-text{
+    font-size: 4rem;
+  }
+  .fifth-text{
+    font-size: 4.5rem;
   }
   .animation-box {
     width: 400px;
